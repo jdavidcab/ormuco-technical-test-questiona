@@ -4,7 +4,7 @@ import com.ormuco.technicaltest.questiona.models.Collinear;
 import com.ormuco.technicaltest.questiona.models.Line;
 import com.ormuco.technicaltest.questiona.models.Point;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 /**
  * CollinearService class.
@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
  * @author Johann David Cabrera Mora
  * @since 1.0
  */
-@Component("collinearService")
+@Service
 public class CollinearService implements ICollinearService {
     
     /**
