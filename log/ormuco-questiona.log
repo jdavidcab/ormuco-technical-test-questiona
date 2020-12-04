@@ -1,0 +1,20 @@
+2020-12-04 00:05:20.014  INFO 43046 --- [main] c.o.t.q.QuestionaApplicationTests        : Starting QuestionaApplicationTests using Java 11.0.9 on MacBook-Air-de-David.local with PID 43046 (started by salome in /Users/salome/autostudy/ormuco/technical_test/questiona)
+2020-12-04 00:05:20.054  INFO 43046 --- [main] c.o.t.q.QuestionaApplicationTests        : No active profile set, falling back to default profiles: default
+2020-12-04 00:05:21.875  INFO 43046 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-04 00:05:22.209  INFO 43046 --- [main] c.o.t.q.QuestionaApplicationTests        : Started QuestionaApplicationTests in 2.892 seconds (JVM running for 4.994)
+2020-12-04 00:05:22.944  INFO 43046 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-04 00:05:58.054  INFO 43095 --- [main] c.o.t.q.QuestionaApplicationTests        : Starting QuestionaApplicationTests using Java 11.0.9 on MacBook-Air-de-David.local with PID 43095 (started by salome in /Users/salome/autostudy/ormuco/technical_test/questiona)
+2020-12-04 00:05:58.082  INFO 43095 --- [main] c.o.t.q.QuestionaApplicationTests        : No active profile set, falling back to default profiles: default
+2020-12-04 00:05:59.857  INFO 43095 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-04 00:06:00.219  INFO 43095 --- [main] c.o.t.q.QuestionaApplicationTests        : Started QuestionaApplicationTests in 2.632 seconds (JVM running for 4.704)
+2020-12-04 00:06:00.948  INFO 43095 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-04 00:21:58.734  INFO 43726 --- [main] c.o.t.q.QuestionaApplicationTests        : Starting QuestionaApplicationTests using Java 11.0.9 on MacBook-Air-de-David.local with PID 43726 (started by salome in /Users/salome/autostudy/ormuco/technical_test/questiona)
+2020-12-04 00:21:58.742  INFO 43726 --- [main] c.o.t.q.QuestionaApplicationTests        : No active profile set, falling back to default profiles: default
+2020-12-04 00:22:00.498  INFO 43726 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-04 00:22:00.859  INFO 43726 --- [main] c.o.t.q.QuestionaApplicationTests        : Started QuestionaApplicationTests in 2.867 seconds (JVM running for 5.631)
+2020-12-04 00:22:01.815  INFO 43726 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-04 12:47:22.276  INFO 49972 --- [main] c.o.t.q.QuestionaApplicationTests        : Starting QuestionaApplicationTests using Java 11.0.9 on MacBook-Air-de-David.local with PID 49972 (started by salome in /Users/salome/autostudy/ormuco/technical_test/questiona)
+2020-12-04 12:47:22.282  INFO 49972 --- [main] c.o.t.q.QuestionaApplicationTests        : No active profile set, falling back to default profiles: default
+2020-12-04 12:47:25.007  INFO 49972 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-04 12:47:25.498  INFO 49972 --- [main] c.o.t.q.QuestionaApplicationTests        : Started QuestionaApplicationTests in 3.832 seconds (JVM running for 6.079)
+2020-12-04 12:47:27.020  INFO 49972 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
