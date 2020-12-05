@@ -29,6 +29,9 @@ public class CollinearController {
 
     private static final Logger LOGGER = LoggerFactory.getLogger( CollinearController.class );
 
+    /**
+     * Spring Dependency injection of service.
+     */
     @Autowired
     ICollinearService collinearService;
 
